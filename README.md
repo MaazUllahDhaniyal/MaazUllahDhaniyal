@@ -2,7 +2,7 @@
 - 👀 I’m interested in exhaustive testing and attention to detail of diffferent sort of software systems.
 - 🌱 I’m currently learning to excel in automated testing
 - 💞️ I’m looking to collaborate on any project that is given to me to enhance my working experience.
-- 📫 You can reach me through my email.
+- 📫 You can reach me through my email i.e. maazullahdhaniyal@gmail.com.
 - Thanks for reading:)
 
 <!---
